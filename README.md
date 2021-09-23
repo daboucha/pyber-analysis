@@ -17,7 +17,7 @@ As shown in the summary DataFrame below, we can make the following observations:
 - Urban areas have the lowest fare per driver, followed by Suburan areas, and Rural areas have the highest fare per driver.
 
 As shown in the line chart below, we can make the following observations:
-![PyBer_Summary](challenge/analysis/PyBer_fare_summary.png)
+![PyBer_Fare_Summary](challenge/analysis/PyBer_fare_summary.png)
 - Over any month in this dataset; Urban areas generate the most fares, followed by Suburan areas, and Rural areas generate the least fares.
 - There does not seem to be any month where fares deviate too far from the average in any city type.
 
