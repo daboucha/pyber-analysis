@@ -4,7 +4,7 @@
 V. Isualize has requested the creation of a summary DataFrame of the ride-sharing data by city type. Then, the creation of a multiple-line graph that shows the total weekly fares for each city type.
 
 ## Resources
-- Data Source: schools_complete.csv, students_complete.csv
+- Data Source: city_data.csv, ride_data.csv
 - Software: Python 3.9.6, Conda 4.10.3
 
 ## Analysis Results
