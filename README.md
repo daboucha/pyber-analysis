@@ -9,7 +9,7 @@ V. Isualize has requested the creation of a summary DataFrame of the ride-sharin
 
 ## Analysis Results
 As shown in the summary DataFrame below, we can make the following observations:
-![PyBer_Summary](challenge/analysis/PyBer_summary_df.png)
+![PyBer_Summary](challenge/analysis/PyBer_summary_df.PNG)
 - Urban areas have the most drivers, followed by Suburan areas, and Rural areas have the least number of drivers.
 - Urban areas deliver the most rides, followed by Suburan areas, and Rural areas deliver the least number of rides.
 - Urban areas generate the most fares, followed by Suburan areas, and Rural areas generate the least fares.
